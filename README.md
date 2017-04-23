@@ -3,7 +3,7 @@ RabbitMQ sample app for Distributed Systems
 
 ## Architecture
 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Architecture")
+![alt text](https://github.com/PawelBanach/RabbitMQ-SampleApp/blob/master/RabbitMQ-simple_hospital_architecture.jpg "Architecture")
 
 ## Example usage
 
